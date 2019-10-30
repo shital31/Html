@@ -1,11 +1,35 @@
-h1{
-   color:royalblue;
-   font-size: 4rem; 
+ h1{
+   color:red;
+   font-size: 4rem;
+    
 }
 h2{
     color: yellow;
 }
+p{
+    color: green;
+    background-color: cyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+} 
+body{
+    color: blue;
+}
+
+#heading{
+    color: darkgreen;
+    background-color: darkgrey;
+}
+#subheading{
+    color: darkkhaki;
+    background-color: darkgreen;
+}
+
+/* h1,h2{
+    color:black; element selector
+} */
 /* this would be css rules */
 /* selectors */
 /* declaration block */
 /* declaration properties,value  */
+
