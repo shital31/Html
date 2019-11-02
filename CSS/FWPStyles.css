@@ -1,0 +1,32 @@
+/* font,width,height,pixels */
+h1{
+    font-size: 60px;
+    width:200px;
+    background: grey;
+    height: 200px;
+}
+/* precent values */
+.outer{
+    width:250px;
+    height: 250px;
+    background:blue;
+}
+.inner{
+    width: 30%;
+    height: 30%;
+    background: red;
+}
+/* em=depends on relative size
+1rem=16 pixels */
+html{
+    font-size: 32px;
+}
+div{
+    font-size: 10px;
+}
+.relative{
+    font-size: 2em;
+}
+.absolute{
+    font-size: 32px;
+}
