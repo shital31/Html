@@ -1,0 +1,39 @@
+/* rgb 0-1 opacity/transparency */
+/*#first{
+    color: rgb(100,123,56);
+    background: rgba(0,0,0,0.5);
+}
+#second{
+    color: rgb(45,10,34);
+    background: rgba(0,0,0,0.25);
+}
+#third{
+    color: rgb(0,0,255);
+    background: rgb(100,100,100);
+}
+body{
+    background: rgb(60,50,90);
+}*/
+/* rgba */
+#first{
+    color:rgb(250,20,220);
+    background: rgba(0,0,0,0.5);
+     
+}
+#second{
+    color: rgb(150,100,70);
+    background: rgba(0,0,0,0.10);
+}
+body{
+    background: rgba(60,50,80,0.2);
+}
+
+/* hex colors #RRGGBB=ff0000 */
+#third{
+    color: #ff0000;
+    background: #000;
+}
+#fourth{
+    background: #f15025;
+}
+
