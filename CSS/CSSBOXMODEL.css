@@ -1,0 +1,47 @@
+/* css box model
+padding
+margine
+border */
+
+.buttons{
+    margine:3rem;
+}
+a{
+    background: coral;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+} 
+#one{
+    border: 3rem solid blue;
+}
+#two{
+    outline-width: 0.2rem;
+    outline-style: solid;
+    outline-color: darkblue;
+    outline-offset: 10px;
+}
+h1{
+    background-color: gray;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 100px;
+    margin-top: 10 0px;
+    border-style: solid;
+    border-color: green;
+    border-bottom-width: 10px;
+    border-bottom-style: dotted;
+    border-radius: 20px;
+
+    ;
+}
+p{
+    background-color: hotpink;
+    /* padding:50px; */
+    padding:30px 60px 20px 10px;
+    border: 13px solid blue;
+    border-radius: 50%;
+    /* margin-top: -100px; */
+}
